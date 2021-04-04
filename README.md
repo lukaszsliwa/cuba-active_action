@@ -15,7 +15,7 @@ Visit the parent [ruby-active_action](https://github.com/lukaszsliwa/active_acti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ruby-active_action', '~> 3.0.3'
+gem 'ruby-active_action', '~> 3.0.4'
 ```
 
 or use alternative gems:
